@@ -1,7 +1,15 @@
 body {background-color: salmon;
 }
-#imal {border-width: 4px;
+#imal {border-width: 10px;
 border-color: darkred;
 border-style:solid ;
 }
-#imal {margin: left 8px;}
+#imal {margin: left 10%;
+}
+#imal {width: 350px;
+}
+#ima1 {width: 375px;
+border-width: 10px;
+border-color: darkred;
+border-style:solid ;
+}
